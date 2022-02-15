@@ -1,0 +1,5 @@
+print("Este progrma es una calculadora que solamente realiza sumas")
+first_number=input("Ingrese el primer número: ")
+second_number=input("Ingrese el segundo número: ")
+resultado=int(first_number)+int(second_number)
+print("El resultado es: "+str(resultado))
